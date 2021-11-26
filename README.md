@@ -39,6 +39,8 @@
 
 ### 백엔드
 
+## 프로젝트 소개 PPT
+https://docs.google.com/presentation/d/1-FOuzQLZ2hqo7SECCZ-GM3XqgRUrW-wMOhDzATqusEA/edit?usp=sharing
 
 ## 시연영상
 https://youtu.be/tOWpIOcZ_PQ
